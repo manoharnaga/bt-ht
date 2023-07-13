@@ -1,2 +1,1 @@
-# bt-ht
-Binary Tree and Hash Tables - ProblemSet and Solutions
+# Binary Tree and Hash Tables - ProblemSet and Solutions
